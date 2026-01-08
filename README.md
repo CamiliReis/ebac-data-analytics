@@ -1,46 +1,48 @@
-# 📚 Estudos em Python — Google Colab
+# EBAC – Estudos e Projetos de Análise de Dados
 
-Este repositório reúne meus estudos e práticas em Python, desenvolvidos principalmente no Google Colab.  
-Aqui registro exercícios, experimentos, anotações e pequenos projetos criados durante meu processo de aprendizado e evolução na linguagem.
-
----
-
-## 🎯 Objetivo do Repositório
-Organizar e centralizar meus materiais de estudo em Python, criando um histórico de aprendizagem que possa ser consultado por mim e apresentado como portfólio técnico em entrevistas e oportunidades profissionais.
+Este repositório reúne meus estudos e projetos desenvolvidos durante a formação em **Analista de Dados pela EBAC**.  
+Aqui estão organizados exercícios práticos e projetos aplicados, que refletem minha evolução em Python e em conceitos fundamentais de Data Analytics.
 
 ---
 
-## 🧠 O que você vai encontrar aqui
-- Notebooks (.ipynb) com exercícios práticos
-- Estudos de conceitos básicos e intermediários
-- Testes e explorações de funcionalidades do Python
-- Códigos simples e projetos pequenos de prática
+## 📌 Objetivo do Repositório
+Concentrar, documentar e disponibilizar:
+- Exercícios utilizados para estudo e prática;
+- Projetos realizados ao longo do curso;
+- Evidências do meu desenvolvimento técnico na área de dados.
 
 ---
 
-## 🚀 Como utilizar
-Você pode abrir qualquer notebook:
-- Diretamente no **Google Colab**
-- Ou no **Jupyter Notebook**, caso prefira rodar localmente
+## 📂 O que você vai encontrar aqui
 
-Nenhum notebook depende de configurações avançadas.
+### ▸ Projetos
+Reúne atividades avaliativas e projetos aplicados, contendo lógica, análise, documentação e boas práticas de código.
+
+### ▸ Exercícios
+Compilação de notebooks utilizados para estudo, prática de lógica, manipulação de dados e consolidação de conhecimento.
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🧠 Como utilizar
+Você pode navegar pelos diretórios e abrir os notebooks diretamente no GitHub ou realizar o download/clonar o repositório para executar localmente no Google Colab ou Jupyter Notebook.
+
+---
+
+## 🛠 Tecnologias utilizadas
 - Python
 - Google Colab
 - Jupyter Notebook
+- Ferramentas e fundamentos de Análise de Dados
 
 ---
 
 ## 👩‍💻 Sobre mim
-**Camili Vitória Alves dos Reis**  
-Estudante de Tecnologia e apaixonada por aprendizado contínuo.  
-Este repositório faz parte do meu desenvolvimento profissional e técnico.
+Atualmente em formação como **Analista de Dados**, com foco em construção de soluções práticas, estudo contínuo e aplicação de conhecimentos para resolver problemas reais utilizando tecnologia.
 
 ---
 
 ## 📄 Licença
-Este repositório está sob a licença **MIT**.  
-Sinta-se livre para consultar e se inspirar nos estudos aqui documentados.
+Este repositório tem objetivo educacional e de portfólio.  
+Caso deseje reutilizar algum conteúdo, sinta-se à vontade, mas por gentileza cite a fonte.
+
+---
