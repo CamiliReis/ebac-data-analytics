@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto Calculadora
 
 ## 📌 Descrição
